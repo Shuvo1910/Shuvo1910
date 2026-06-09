@@ -1,88 +1,131 @@
 <div align="center">
-  <img src="banner.png" alt="Banner" width="100%">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sultan%20Mahmud%20Shuvo&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Django%20Backend%20Developer%20%7C%20REST%20API%20Engineer&descAlignY=58&descSize=16&descColor=a8d8ea)
+
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Django+Developer;REST+API+Developer;Cyber+Security+Enthusiast;Open+Source+Learner" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C96D4&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Django+%26+REST+API+Specialist;Cyber+Security+Enthusiast;Clean+Code+%7C+Better+Architecture" />
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,git,github,c,vscode" />
-</p>
+## 👨‍💻 About Me
 
----
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sultan-mahmud-shuvo-116aa5405/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.fiverr.com/sultan_mahmud40">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
-
-<a href="mailto:sultanshuvo1910@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 🚀 About Me
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ```python
 class SultanMahmud:
+    name     = "Sultan Mahmud Shuvo"
+    role     = "Django Backend Developer"
+    location = "Bangladesh 🇧🇩"
+    
+    stack = {
+        "backend"  : ["Django", "DRF", "Python"],
+        "frontend" : ["HTML", "CSS", "Bootstrap", "JS"],
+        "tools"    : ["Git", "GitHub", "VSCode"],
+        "learning" : ["API Security", "Cyber Security"]
+    }
 
-    role = "Django Backend Developer"
-
-    skills = [
-        "Django",
-        "Django REST Framework",
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "JavaScript",
-        "Git",
-        "GitHub",
-        "Python",
-        "C"
+    focus = [
+        "Backend Architecture",
+        "REST API Design",
+        "Freelancing Projects"
     ]
 
-    interests = [
-        "Backend Development",
-        "REST APIs",
-        "Cyber Security",
-        "Open Source"
-    ]
+    def greet(self):
+        return "Let's build something great! 🚀"
 ```
 
+</td>
+<td valign="top" width="50%">
+
+### 🎯 Current Focus
+- 🔧 Django REST Framework mastery
+- 🔐 API Security & Authentication
+- 🏗️ Scalable Backend Architecture
+- 🛡️ Cyber Security fundamentals
+- 💼 Freelancing on Fiverr
+
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-mahmud-shuvo-116aa5405/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/sultan_mahmud40)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sultanshuvo1910@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shuvo1910)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🔥 GitHub Streak
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo1910&theme=tokyonight" />
-</p>
+<div align="center">
 
-## 🎯 Current Focus
+**Backend**
 
-- Django REST Framework
-- API Security
-- Backend Architecture
-- Cyber Security
-- Freelancing Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shuvo1910&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shuvo1910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&icon_color=2c96d4&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo1910&theme=tokyonight&hide_border=true&background=0d1117&ring=2c96d4&fire=2c96d4&currStreakLabel=2c96d4" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvo1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&text_color=ffffff" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Shuvo1910&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake Light](https://Shuvo1910.github.io/Shuvo1910/github-snake.svg#gh-light-mode-only)
+![Snake Dark](https://Shuvo1910.github.io/Shuvo1910/github-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shuvo1910&label=Profile+Views&color=2c96d4&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Shuvo1910?label=Followers&style=flat-square&color=2c96d4)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
+
+</div>
