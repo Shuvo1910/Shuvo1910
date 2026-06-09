@@ -43,7 +43,7 @@ class SultanMahmud:
 ```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 ### 🎯 Current Focus
 - 🔧 Django REST Framework mastery
