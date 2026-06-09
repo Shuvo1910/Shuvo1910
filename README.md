@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shuvo1910/Shuvo1910/main/banner.png" alt="Banner" width="100%" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sultan%20Mahmud%20Shuvo&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Django%20Backend%20Developer%20%7C%20REST%20API%20Engineer&descAlignY=58&descSize=16&descColor=a8d8ea)
+
 </div>
 
 <div align="center">
