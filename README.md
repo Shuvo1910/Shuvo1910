@@ -109,10 +109,10 @@ class SultanMahmud:
 </td>
 </tr>
 </table>
-
+<!-- BOTTOM -->
 <div style="margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=Shuvo1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&text_color=ffffff&langs_count=8"
-      width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo1910&theme=tokyonight&hide_border=true"
+    width="60%" />
 </div>
 </div>
  
