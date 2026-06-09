@@ -95,44 +95,32 @@ class SultanMahmud:
 ---
 
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shuvo1910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&icon_color=2c96d4&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shuvo1910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&icon_color=2c96d4&text_color=ffffff&count_private=true" />
 <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Shuvo1910&theme=tokyonight&hide_border=true&background=0d1117&ring=2c96d4&fire=2c96d4&currStreakLabel=2c96d4" />
-
 </div>
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvo1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&text_color=ffffff&langs_count=8" />
-
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shuvo1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&text_color=ffffff&langs_count=8" />
 </div>
-
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Shuvo1910&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-
 </div>
-
 ---
-
+ 
 ## 🐍 Contribution Graph
-
+ 
 <div align="center">
-
 ![Snake Light](https://Shuvo1910.github.io/Shuvo1910/github-snake.svg#gh-light-mode-only)
 ![Snake Dark](https://Shuvo1910.github.io/Shuvo1910/github-snake-dark.svg#gh-dark-mode-only)
-
+ 
 </div>
-
 ---
-
+ 
 <div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Shuvo1910&label=Profile+Views&color=2c96d4&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Shuvo1910?label=Followers&style=flat-square&color=2c96d4)
-
+ 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
 
 </div>
