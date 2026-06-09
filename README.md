@@ -103,12 +103,13 @@ class SultanMahmud:
 
 </div>
 
+<!-- Stats -->
 <div align="center">
-
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Shuvo1910&theme=tokyonight&hide_border=true&background=0d1117&ring=2c96d4&fire=2c96d4&currStreakLabel=2c96d4" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
----
+
  
 ## 🐍 Contribution Graph
 
