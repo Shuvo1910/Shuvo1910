@@ -109,17 +109,10 @@ class SultanMahmud:
 ---
  
 ## 🐍 Contribution Graph
- 
+
 <div align="center">
-![Snake Light](https://Shuvo1910.github.io/Shuvo1910/github-snake.svg#gh-light-mode-only)
-![Snake Dark](https://Shuvo1910.github.io/Shuvo1910/github-snake-dark.svg#gh-dark-mode-only)
- 
-</div>
----
- 
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Shuvo1910&label=Profile+Views&color=2c96d4&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Shuvo1910?label=Followers&style=flat-square&color=2c96d4)
+
+<img src="https://raw.githubusercontent.com/Shuvo1910/Shuvo1910/output/github-snake.svg" alt="Snake animation" />
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
 
