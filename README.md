@@ -100,14 +100,10 @@ class SultanMahmud:
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shuvo1910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&icon_color=2c96d4&text_color=ffffff&count_private=true" />
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shuvo1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&text_color=ffffff&langs_count=8" />
-
 </div>
-
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
  
