@@ -11,14 +11,10 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,git,github,c,vscode" />
-
 </p>
 
 ---
-
-## 🌐 Connect With Me
 
 <p align="center">
 
