@@ -106,6 +106,16 @@ class SultanMahmud:
 </td>
 </tr>
 </table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Shuvo1910/github-stats-transparent/output/generated/overview.svg" width="48%" />
+
+<img src="https://raw.githubusercontent.com/Shuvo1910/github-stats-transparent/output/generated/languages.svg" width="48%" />
+
+</div>
 <!-- BOTTOM -->
 <div align="center">
   <img
