@@ -107,12 +107,12 @@ class SultanMahmud:
 </tr>
 </table>
 <!-- BOTTOM -->
-<div style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo1910&theme=tokyonight&hide_border=true"
-    width="60%" />
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Shuvo1910&theme=tokyonight&hide_border=true&background=0D1117&ring=2C96D4&fire=2C96D4&currStreakLabel=2C96D4&sideLabels=2C96D4&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="60%"
+  />
 </div>
-</div>
- 
 ## 🐍 Contribution Graph
 
 <div align="center">
