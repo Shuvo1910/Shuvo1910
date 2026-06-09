@@ -115,13 +115,6 @@ class SultanMahmud:
   />
 </div>
 
-<div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?Shuvo1910=krisnarane&show_icons=true&include_all_commits=true&count_private=true&background=0D1117&ring=2C96D4&fire=2C96D4&currStreakLabel=2C96D4&sideLabels=2C96D4&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Shuvo1910=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
-  </a>
-</div>
-
 ##🐍 Contribution Graph
 
 <div align="center">
