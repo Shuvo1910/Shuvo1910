@@ -73,7 +73,6 @@ class SultanMahmud:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo1910&theme=tokyonight" />
 </p>
-![Snake animation](https://github.com/Shuvo1910/Shuvo1910/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎯 Current Focus
 
