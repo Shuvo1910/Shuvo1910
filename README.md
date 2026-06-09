@@ -93,23 +93,20 @@ class SultanMahmud:
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div>
-    <img height="180em"
+<div align="center">
+  <!-- TOP ROW: 2 CARDS SIDE BY SIDE -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<img height="180em"
       src="https://github-readme-stats-salesp07.vercel.app/api?username=Shuvo1910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&icon_color=2c96d4&text_color=ffffff&count_private=true" />
-  </div>
-
-  <div>
-    <img height="180em"
+    
+<img height="180em"
       src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shuvo1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&text_color=ffffff&langs_count=8" />
   </div>
-
-  <div>
-    <img height="180em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo1910&theme=aura&hide_border=true" />
+  
+  <div style="margin-top: 20px;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuvo1910&theme=aura&hide_border=true"
+      width="60%" />
   </div>
-
 </div>
 
  
