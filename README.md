@@ -94,9 +94,6 @@ class SultanMahmud:
 ## 📊 GitHub Analytics
 
 <div align="center">
-## 📊 GitHub Analytics
-
-<div align="center">
 
 <table>
 <tr>
