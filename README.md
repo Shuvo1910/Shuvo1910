@@ -95,16 +95,18 @@ class SultanMahmud:
 ---
 
 ## 📊 GitHub Analytics
- 
+
 <div align="center">
+
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shuvo1910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&icon_color=2c96d4&text_color=ffffff&count_private=true" />
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Shuvo1910&theme=tokyonight&hide_border=true&background=0d1117&ring=2c96d4&fire=2c96d4&currStreakLabel=2c96d4" />
-</div>
-<div align="center">
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Shuvo1910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c96d4&text_color=ffffff&langs_count=8" />
+
 </div>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shuvo1910&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Shuvo1910&theme=tokyonight&hide_border=true&background=0d1117&ring=2c96d4&fire=2c96d4&currStreakLabel=2c96d4" />
+
 </div>
 ---
  
