@@ -120,7 +120,6 @@ class SultanMahmud:
     width="60%"
   />
 </div>
-<br>
 
 <h3 align="left">🐍 Contribution Graph</h3>
 <hr>
