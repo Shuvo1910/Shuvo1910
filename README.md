@@ -27,7 +27,7 @@
 
 ```python
 class SultanMahmud:
-    name     = "Sultan Mahmud Shuvo"
+    name     = "Sultan Mahmud"
     role     = "Django Backend Developer"
     location = "Bangladesh 🇧🇩"
     
