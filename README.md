@@ -122,7 +122,7 @@ class SultanMahmud:
 </div>
 <br>
 
-##🐍 Contribution Graph
+<h3>##🐍 Contribution Graph</h3>
 
 <div align="center">
 
