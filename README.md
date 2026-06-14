@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C96D4&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Django+%26+REST+API+Specialist;Cyber+Security+Enthusiast;Clean+Code+%7C+Better+Architecture" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2C96D4&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Django+%26+REST+API+Specialist;Clean+Code+%7C+Better+Architecture" />
 
 </div>
 
@@ -55,7 +55,6 @@ class SultanMahmud:
 - 🔧 Django REST Framework mastery
 - 🔐 API Security & Authentication
 - 🏗️ Scalable Backend Architecture
-- 🛡️ Cyber Security fundamentals
 - 💼 Freelancing on Fiverr
 
 ### 📫 Reach Me
