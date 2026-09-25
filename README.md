@@ -4,7 +4,7 @@
 
 </div> -->
 <div align="center">
-  <img src="./banner1.png"
+  <img src="./banner_1.png"
        alt="Sultan Mahmud Banner"
        width="3100"
        height="750" />
